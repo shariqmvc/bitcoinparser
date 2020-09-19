@@ -1,0 +1,13 @@
+Instruction to run a POC Blockchain Parser written in Java
+
+1. Change the file path in a Constants file according to your file location
+   e.g: "C:/user/username/....../bl000.dat
+Location of Constants.java file: src\main\java\com\shariq\BlockChainParser\utlility\Constants.java   
+   
+2. Execute the handler class to run the application.
+Location of Handler.java file: src\main\java\com\shariq\BlockChainParser\Handler.java
+ 
+3. The output is in json format. Kindly, copy the output from console and use any tool to format the json and view it.
+
+
+
